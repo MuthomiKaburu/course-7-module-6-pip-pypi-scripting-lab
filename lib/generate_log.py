@@ -18,5 +18,4 @@ def generate_log(data):
     # STEP 4: Print confirmation
     print(f"Log written to {filename}")
 
-    # ✅ CRITICAL: Return filename
     return filename
